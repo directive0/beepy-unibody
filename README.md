@@ -7,7 +7,7 @@ Versions:
 
 Standard
 <p align="center">
-  <img width="203" height="273" src="https://github.com/directive0/beepy-unibody/main/Images/standard.png?raw=true">
+  <img width="203" height="273" src="https://raw.githubusercontent.com/directive0/beepy-unibody/main/Images/standard.png?raw=true">
 </p>
 
 
